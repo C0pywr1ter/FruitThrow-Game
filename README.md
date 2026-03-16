@@ -1,4 +1,4 @@
-# FruitThrow-Game
+# FruitThrow-Game (Legacy project)
 Unity Game: This game is a cooking chef simulator.Player has to grab the ingridients pressing the left button from the frigge and spawn them by spawn button. the customers orders can be fulfilled by throwing the right ingridients in the pot. 
 After compliting an order the pot goes to cooking mode which can be checked by pressing the right button.Each day player can buy new pots up to 4 to increase the kitchens productivity.
 The game is created to be played on Android phones by swiping on the sceen, the logic of the swiped is written in SwipeScript.
